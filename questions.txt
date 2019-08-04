@@ -1,0 +1,6 @@
+Which is the Capital of India?,Nepal,Kashmir,B'lore,Delhi,D
+Who is the 'Founder of Tesla'?,ElonMusk,Ambani,Billgates,Steve,A
+Who is founder of Facebook?,Steve,Mark Zukerburg,Sundar Pichai,V.Mallya,B
+When did India get Independence?,1949,1947,1956,1959,B
+Which Team won World Cup 2019?,India,Australia,England,Newzeland,C
+Who won Man of the tournament in World Cup 2019?,V.Kholi,R.Sharma,K.Williamson,S.Hasn,C
